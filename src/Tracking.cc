@@ -29,7 +29,9 @@
 #include"Converter.h"
 #include"Map.h"
 #include"Initializer.h"
-
+#include <unistd.h>
+#include <stdio.h>
+#include <stdlib.h>
 #include"Optimizer.h"
 #include"PnPsolver.h"
 
